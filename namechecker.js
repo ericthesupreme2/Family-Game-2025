@@ -3,92 +3,92 @@ let objar = [
     {
         name: 'jess',
         code: 158,
-        profileimage: "images/Jess.png"
+        profileimage: "images/jess.png"
     },
     {
         name: 'ben',
         code: 432,
-        profileimage: "images/Ben.png"
+        profileimage: "images/ben.png"
     },
     {
         name: 'marla',
         code: 624,
-        profileimage: "images/Marla.png"
+        profileimage: "images/marla.png"
     },
     {
         name: 'laura',
         code: 793,
-        profileimage: "images/Laura.png"
+        profileimage: "images/laura.png"
     },
     {
         name: 'kerry',
         code: 218,
-        profileimage: "images/Kerry.png"
+        profileimage: "images/kerry.png"
     },
     {
         name: 'lex',
         code: 365,
-        profileimage: "images/Lex.png"
+        profileimage: "images/lex.png"
     },
     {
         name: 'ruben',
         code: 849,
-        profileimage: "images/Ruben.png"
+        profileimage: "images/ruben.png"
     },
     {
         name: 'margot',
         code: 702,
-        profileimage: "images/Margot.png"
+        profileimage: "images/margot.png"
     },
     {
         name: 'isobel',
         code: 531,
-        profileimage: "images/Isobel.png"
+        profileimage: "images/isobel.png"
     },
     {
         name: 'nick',
         code: 294,
-        profileimage: "images/Nick.png"
+        profileimage: "images/nick.png"
     },
     {
         name: 'emma',
         code: 603,
-        profileimage: "images/Emma.png"
+        profileimage: "images/emma.png"
     },
     {
         name: 'kate',
         code: 743,
-        profileimage: "images/Kate.png"
+        profileimage: "images/kate.png"
     },
     {
         name: 'anna',
         code: 182,
-        profileimage: "images/Anna.png"
+        profileimage: "images/anna.png"
     },
     {
         name: 'isaac',
         code: 976,
-        profileimage: "images/Isaac.png"
+        profileimage: "images/isaac.png"
     },
     {
         name: 'eve',
         code: 841,
-        profileimage: "images/Eve.png"
+        profileimage: "images/eve.png"
     },
     {
         name: 'hazel',
         code: 305,
-        profileimage: "images/Hazel.png"
+        profileimage: "images/hazel.png"
     },
     {
         name: 'christopher',
         code: 560,
-        profileimage: "images/Christopher.png"
+        profileimage: "images/christopher.png"
     },
     {
         name: 'eric',
         code: 'Cyclopsblue786!',
-        profileimage: "images/Eric.png"
+        profileimage: "images/eric.png"
     }
 ];
 document.getElementById('accessForm').addEventListener('submit', function (e) {
